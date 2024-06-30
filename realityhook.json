@@ -1,0 +1,23 @@
+{
+	"gAim" : 
+	{
+		"active" : 1.0,
+		"autoscope" : 1.0,
+		"autoshoot" : 1.0,
+		"fov" : 280.0,
+		"hitbox" : 1.0,
+		"hitscan" : 0.0,
+		"silent" : 1.0,
+		"zoomedonly" : 1.0
+	},
+	"gMisc" : 
+	{
+		"autostrafe" : 0.0,
+		"bhop" : 0.0,
+		"chatspam" : 1.0,
+		"micspam" : 1.0,
+		"noisemakerspam" : 1.0,
+		"replay" : 1.0,
+		"requeue" : 1.0
+	}
+}
