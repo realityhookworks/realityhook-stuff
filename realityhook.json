@@ -26,7 +26,7 @@
 		"noisemakerspam" : 1.0,
 		"replay" : 1.0,
 		"requeue" : 1.0,
-		"namestealer": 1.0,
-		"thirdperson" : 0.0
+		"thirdperson" : 0.0,
+		"namestealer": 1.0
 	}
 }
